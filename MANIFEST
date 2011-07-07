@@ -1,0 +1,6 @@
+Changes
+lib/Syntax/Highlight/Engine/Simple/PSTemplate.pm
+Makefile.PL
+MANIFEST
+README
+t/00_load.t
